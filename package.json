@@ -9,6 +9,9 @@
   },
   "author": "Dave Gray",
   "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
