@@ -1,0 +1,3 @@
+20231223	17:33:01	bfdad03c-8a65-436f-80bf-2003b49aa581	SyntaxError: Unexpected token a in JSON at position 15
+20231227	16:21:27	0a5753d3-cc1a-4dff-8440-c5215cad4d6f	SyntaxError: Unexpected string in JSON at position 81
+20231228	10:42:13	76a742f7-a3eb-47e6-8a59-94488017e646	Error: Not allowed by CORS
